@@ -8,7 +8,7 @@
             "type": "editor-browser",
             "request": "launch",
             "name": "Open index.html",
-            "url": "file:///c%3A/Users/Emir/Downloads/Assignment3_ResponsiveWeb_Emir/index.html"
+            "url": "file:///C:/Assignment3_ResponsiveWeb_Emir/index.html"
         }
     ]
 }
